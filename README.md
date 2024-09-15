@@ -1,6 +1,6 @@
 # Small Step Toward Image Generation Models
 ## Overview:
-This repository contains a simple image generation model built using the MNIST dataset. The goal of this project is to provide a basic introduction to image generation models with a straightforward architecture.
+This repository contains a simple image generation model built using the MNIST dataset. The goal of this project is to get a basic introduction to image generation models with a simple straightforward architecture.
 
 ## Project Description:
 The project demonstrates a basic generative model implemented with TensorFlow and Keras. The model uses a simple architecture of dense layers and dropout to generate images from MNIST digits. The dataset used includes handwritten digits from the MNIST dataset, which is widely used for image classification tasks.
